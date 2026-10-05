@@ -1,0 +1,6 @@
+{
+  "sample_index": 1357,
+  "load_source": "reconstructed from the saved equilibrium displacement using the regularized stiffness matrix",
+  "dtype": "torch.float64",
+  "boundary_conditions": "bottom vertical displacements fixed; bottom-left horizontal displacement fixed"
+}

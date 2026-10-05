@@ -1,0 +1,6 @@
+{
+  "sample_index": 64,
+  "load_source": "saved applied loads",
+  "dtype": "torch.float64",
+  "boundary_conditions": "bottom vertical displacements fixed; bottom-left horizontal displacement fixed"
+}
